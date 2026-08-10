@@ -1,1 +1,13 @@
-
+{
+  "addons": {
+    "cobrance.cpd@gmail.com": {
+      "updates": [
+        {
+          "version": "1.7.0",
+          "update_link": "LINK"
+        }
+        
+      ]
+    }
+  }
+}
